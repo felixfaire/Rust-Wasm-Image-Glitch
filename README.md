@@ -1,4 +1,4 @@
-# Rust-PixelSorting-wasm
+# Rust-Wasm-Image-Glitch
 
 A small demo rust wasm project that sorts and shuffles pixels of a random image from unsplash.
 
