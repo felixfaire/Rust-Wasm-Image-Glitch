@@ -2,7 +2,7 @@
 
 A small demo rust wasm project that sorts and shuffles pixels of a random image from unsplash.
 
-![Example Images](https://github.com/felixfaire/Rust-PixelSorting-Sketch/blob/main/example_output/example_output.jpg)
+![Example Images](https://github.com/felixfaire/Rust-Wasm-Image-Glitch/blob/main/example.jpg)
 
 ## How to install
 
